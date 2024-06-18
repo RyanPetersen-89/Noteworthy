@@ -32,6 +32,11 @@ This is a created web application where I can add and remove notes. It allows fo
 - Click on an existing note to view it.
 - Click the trash icon to delete a note.
 
+<br>
+<img src="./public/assets/imgs/Noteworthy.png" 
+ alt="screenshot of deployed page" width="800px" height="100%" style=object-position: center;>
+<br>
+
 ## Contributing
 
 If you would like to contribute...
